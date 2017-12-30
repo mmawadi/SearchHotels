@@ -1,3 +1,7 @@
+Heroku Link :
+
+https://expediahotelsmaram.herokuapp.com/BrowseHotels
+
 To install this web in local machine you need eclipse and jdk 1.8, No need to any extra or external jar files because this is a maven project so its will download the needed jars by itself.
 
 I used GlassFish4 in development but it supposed to work fine with tomcat.
