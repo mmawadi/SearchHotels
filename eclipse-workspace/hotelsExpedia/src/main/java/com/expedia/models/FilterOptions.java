@@ -14,6 +14,7 @@ public class FilterOptions {
 	private Integer maxTotalRate;
 	private Double minGuestRate;
 	private Double maxGuestRate;
+//test
 	
 	public String getGoingTo() {
 		return goingTo;
